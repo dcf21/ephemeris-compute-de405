@@ -19,7 +19,7 @@ For comets, it obtains orbital elements from the Minor Planet Center's website.
 
 A [newer version of this
 tool](https://www.github.com/dcf21/ephemeris-compute-de430) is now available,
-which uses tha NASA DE430 ephemeris (published 2013).
+which uses the NASA DE430 ephemeris (published 2013).
 
 ### Supported operating systems
 
