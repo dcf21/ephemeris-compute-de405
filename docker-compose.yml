@@ -1,5 +1,6 @@
 version: '3'
 services:
-  ephmeris-compute:
+  ephmeris-compute-de405:
     build: .
-    image: ephmeris-compute:v1
+    image: ephmeris-compute-de405:v1
+    command: ./bin/ephem.bin
